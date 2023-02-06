@@ -1,0 +1,58 @@
+.m-t-30{
+    margin-top: 30px
+}
+.border-5{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.box-icon-weather{
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
+/* .box-h{
+    height: 100px;
+} */
+.temp{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.location{
+    background-color: black;
+    text-transform: uppercase;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.date-time{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.format-row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.padding-0{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.one-infor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
